@@ -7,7 +7,7 @@
 
    ![1](Aspose.Words.55f1ffc0-12cf-4ad7-b9b4-5913e745bac6.002.jpeg "1")
 
-1. 假設他是從第5頁開始刷推文，就在小工具裡面輸入 fim，4 如下：
+1. 假設他是從第5頁開始刷推文，就在小工具裡面輸入 fim，5 如下：
 
    ![6V1UM8b](Aspose.Words.55f1ffc0-12cf-4ad7-b9b4-5913e745bac6.003.jpeg "6V1UM8b")
 
