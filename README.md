@@ -1,6 +1,6 @@
 ﻿# **政黑4-6小工具(免安裝)**
- 已知問題，頁數上限為100，輸入超過了沒用，PTT網址編碼問題，無法修。
 ![政黑4-6小工具](Aspose.Words.55f1ffc0-12cf-4ad7-b9b4-5913e745bac6.001.png "政黑4-6小工具")
+ 已知問題，頁數上限為100，輸入超過了沒用，PTT網址編碼問題，無法修。
 ##### **下載網址(或到右邊Releases)**
 <https://github.com/Learn-Long/MyTool/releases/download/v0211/4-6.exe>
 ##### **使用說明**
